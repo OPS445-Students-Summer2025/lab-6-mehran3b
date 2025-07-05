@@ -28,6 +28,6 @@ test_h_displayCourses (__main__.lab6a.test_h_displayCourses)
 [Lab 6] - [Investigation 1] - [Part 2] - Creating Classes - displayCourses() provides the correct output ... ok
 
 ----------------------------------------------------------------------
-Ran 14 tests in 0.009s
+Ran 14 tests in 0.012s
 
 OK
